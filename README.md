@@ -10,6 +10,7 @@ This script takes daily backup of Gitlab/Jenkins/Sonar data to s3 bucket and sen
 2. Run the script.<br/>
 
         sh s3-script.sh
+        
 
 The below is the output we get in mail.
 
