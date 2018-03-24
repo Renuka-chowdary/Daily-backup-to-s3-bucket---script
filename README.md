@@ -1,6 +1,6 @@
 # Daily-Backup-script
 
-This script takes daily backup of Gitlab/Jenkins/Sonar data to s3 bucket and send mail.
+This script takes daily backup of Gitlab/Jenkins/Sonar data to s3 bucket and send mail./n
 The below is the output we get in mail.
 
 
